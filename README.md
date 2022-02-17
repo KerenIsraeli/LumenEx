@@ -1,2 +1,2 @@
 # LumenEx
-Keren Israeli excersize for Lumen
+Keren Israeli exercise for Lumen
